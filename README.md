@@ -19,6 +19,8 @@ Outline:
 ## 1. Species classification
 - Plant classification V11: 4000 labeled observations of various plant species. https://huggingface.co/datasets/Taquito07/plant_classification_v11 
 - Plant classification: 2000 labeled observations of various plant species. https://huggingface.co/datasets/Mirkat/Plant_Classification
+- Tree classification: 4000 labeled observations of various tree species. https://huggingface.co/datasets/Nasimnewcode/Tree_species/tree/main
+- Common Tree Species in Hong Kong: 1300 species with minimum 10 pictures each. https://huggingface.co/datasets/OttoYu/Tree-Species/tree/main
 - Kaggle iNaturalist 2021: A flora and fauna species classification dataset from global sites with 2.7M labeled images of 10k species with smartphone imagery. https://www.kaggle.com/c/inaturalist-2021
 - Kaggle GeoLifeCLEF 2021: A flora and fauna location-based species recommendation dataset from France with 1.9M labeled images of 31k species with satellite imagery and cartographic variables. https://www.imageclef.org/GeoLifeCLEF2021
 

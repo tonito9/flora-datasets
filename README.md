@@ -17,9 +17,16 @@ Outline:
 4. Wildfire detection
 
 ## 1. Species classification
+- 4000 labeled observations of various plant species: https://huggingface.co/datasets/Taquito07/plant_classification_v11 
+- 2000 labeled observations of various plant species: https://huggingface.co/datasets/Mirkat/Plant_Classification
+- Kaggle iNaturalist 2021. A flora and fauna species classification dataset from global sites with 2.7M labeled images of 10k species with smartphone imagery: https://www.kaggle.com/c/inaturalist-2021
+- Kaggle GeoLifeCLEF 2021. A flora and fauna location-based species recommendation dataset from France with 1.9M labeled images of 31k species with satellite imagery and cartographic variables: https://www.imageclef.org/GeoLifeCLEF2021
 
 ## 2. Damage / health classification
+- 550 labeled observations of leaves, diseased or not: https://huggingface.co/datasets/ayerr/plant-disease-classification
+- Forest Damages 2021 (Swedish Forest Agency): A tree damage classification dataset from 5 areas in Sweden with 1.5k images with >100k labeled trees with airborne RGB: https://lila.science/datasets/forest-damages-larch-casebearer/
 
 ## 3. Change detection
 
 ## 4. Wildfire detection
+- The FLAME dataset: aerial imagery pile burn detection using drones (UAVs) https://ieee-dataport.org/open-access/flame-dataset-aerial-imagery-pile-burn-detection-using-drones-uavs

@@ -39,7 +39,7 @@ Outline:
 - [Coconut Diseases and Pest Infestations](https://www.kaggle.com/datasets/samitha96/coconutdiseases): 5k labeled images, 5 categories
 
 ## 3. Wildfire detection
-- [The FLAME dataset](https://ieee-dataport.org/open-access/flame-dataset-aerial-imagery-pile-burn-detection-using-drones-uavs): 50k aerial images labeled as "fire" and "non-nire", aerial imagery pile burn detection using drones (UAVs).
+- [The FLAME dataset](https://ieee-dataport.org/open-access/flame-dataset-aerial-imagery-pile-burn-detection-using-drones-uavs): 50k aerial images labeled as "fire" and "non-fire", aerial imagery pile burn detection using drones (UAVs).
 - [Forest Fire, Smoke, and Non-Fire Image Dataset](https://www.kaggle.com/datasets/amerzishminha/forest-fire-smoke-and-non-fire-image-dataset): 43k images, distributed across three categories: "fire," "smoke," and "non-fire".
 - [Forest Fire Images](https://www.kaggle.com/datasets/mohnishsaiprasad/forest-fire-images): 5k images of both "fire" and "non fire", combined.
 - [Forest Smoke and Fire Detection](https://www.kaggle.com/datasets/kutaykutlu/forest-fire): 15k images of smoke and fire.

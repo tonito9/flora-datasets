@@ -30,8 +30,16 @@ Outline:
 - Plant Disease Expert: 200k labeled images for Plant Disease detection. https://www.kaggle.com/datasets/sadmansakibmahi/plant-disease-expert
 - Plant Diseases Dataset: 87k rgb images of healthy and diseased crop leaves, categorized into 38 different classes. https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
 - Plant leaf disease classification: 550 labeled images of leaves, diseased or not. https://huggingface.co/datasets/ayerr/plant-disease-classification
+- PlantVillage dataset: 54k healthy and unhealthy leaf images divided into 38 categories by species and disease. https://www.tensorflow.org/datasets/catalog/plant_village
 
 ## 3. Change detection
 
 ## 4. Wildfire detection
 - The FLAME dataset: aerial imagery pile burn detection using drones (UAVs). https://ieee-dataport.org/open-access/flame-dataset-aerial-imagery-pile-burn-detection-using-drones-uavs
+- Forest Fire, Smoke, and Non-Fire Image Dataset: 43k images, distributed across three categories: "fire," "smoke," and "non-fire." https://www.kaggle.com/datasets/amerzishminha/forest-fire-smoke-and-non-fire-image-dataset
+- Forest Fire Images: 5k images of both Fire and Non Fire, combined. https://www.kaggle.com/datasets/mohnishsaiprasad/forest-fire-images
+- Forest Smoke and Fire Detection: . https://www.kaggle.com/datasets/kutaykutlu/forest-fire
+
+To classify:
+- https://www.kaggle.com/datasets/meetnagadia/collection-of-different-category-of-leaf-images
+- https://www.kaggle.com/datasets/uciml/forest-cover-type-dataset

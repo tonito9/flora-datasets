@@ -19,6 +19,7 @@ Outline:
 ## 1. Species classification
 - Plant classification V11: 4k labeled images of various plant species. https://huggingface.co/datasets/Taquito07/plant_classification_v11 
 - Plant classification: 2k labeled images of various plant species. https://huggingface.co/datasets/Mirkat/Plant_Classification
+- TreeSatAI: A tree species classification dataset from Lower Saxony, Germany with 50k images of aerial, Sen-1, Sen-2, georeferenced, time-referenced, with species, age, genus, forest type, and land cover. https://zenodo.org/record/6598391
 - Tree classification: 4k labeled images of various tree species. https://huggingface.co/datasets/Nasimnewcode/Tree_species/tree/main
 - Common Tree Species in Hong Kong: 1300 species * 10 pictures each. https://huggingface.co/datasets/OttoYu/Tree-Species/tree/main
 - iNaturalist 2021: A flora and fauna species classification dataset from global sites with 2.7M labeled images of 10k species with smartphone imagery. https://www.kaggle.com/c/inaturalist-2021

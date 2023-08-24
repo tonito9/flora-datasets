@@ -12,7 +12,7 @@ If you'd like to take part in this initiative, by sharing a useful dataset or a 
 
 Outline:
 1. Species classification
-2. Damage / health classification
+2. Disease / Damage classification
 3. Change detection
 4. Wildfire detection
 
@@ -24,9 +24,12 @@ Outline:
 - iNaturalist 2021: A flora and fauna species classification dataset from global sites with 2.7M labeled images of 10k species with smartphone imagery. https://www.kaggle.com/c/inaturalist-2021
 - GeoLifeCLEF 2021: A flora and fauna location-based species recommendation dataset from France with 1.9M labeled images of 31k species with satellite imagery and cartographic variables. https://www.imageclef.org/GeoLifeCLEF2021
 
-## 2. Damage / health classification
-- Plant leaf disease classification: 550 labeled images of leaves, diseased or not. https://huggingface.co/datasets/ayerr/plant-disease-classification
+## 2. Disease / Damage classification
 - Forest Damages 2021 (Swedish Forest Agency): A tree damage classification dataset from 5 areas in Sweden with 1.5k images with >100k labeled trees with airborne RGB. https://lila.science/datasets/forest-damages-larch-casebearer/
+- Plant Disease Classification Merged Dataset: 76k images, categorized into 88 classes, obtained by combining 14 different reference data sets. https://www.kaggle.com/datasets/alinedobrovsky/plant-disease-classification-merged-dataset
+- Plant Disease Expert: 200k labeled images for Plant Disease detection. https://www.kaggle.com/datasets/sadmansakibmahi/plant-disease-expert
+- Plant Diseases Dataset: 87k rgb images of healthy and diseased crop leaves, categorized into 38 different classes. https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
+- Plant leaf disease classification: 550 labeled images of leaves, diseased or not. https://huggingface.co/datasets/ayerr/plant-disease-classification
 
 ## 3. Change detection
 

@@ -35,7 +35,7 @@ Outline:
 - [Plant leaf disease classification](https://huggingface.co/datasets/ayerr/plant-disease-classification): 550 labeled images of leaves, diseased or not.
 - [Orange leaf disease dataset](https://www.kaggle.com/datasets/shuvokumarbasak4004/orange-leaf-disease-dataset): 41k labeled images, 5 categories (4 diseases and healthy).
 - [Apple Disease Dataset](https://www.kaggle.com/datasets/ludehsar/apple-disease-dataset): 10k labeled images, 4 categories (3 diseases and healthy).
-- [Plant Pathology 2021 - foliar diseases in apple trees](https://www.kaggle.com/competitions/plant-pathology-2021-fgvc8/data) - [resized](https://www.kaggle.com/datasets/sakbvb/ppchangedimagesize): 18.6k images
+- [Plant Pathology 2021 - foliar diseases in apple trees](https://www.kaggle.com/competitions/plant-pathology-2021-fgvc8/data) / [resized](https://www.kaggle.com/datasets/sakbvb/ppchangedimagesize): 18.6k images
 - [Coconut Diseases and Pest Infestations](https://www.kaggle.com/datasets/samitha96/coconutdiseases): 5k labeled images, 5 categories
 
 ## 3. Wildfire detection

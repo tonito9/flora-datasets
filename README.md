@@ -31,7 +31,12 @@ Outline:
 - [Plant Disease Expert](https://www.kaggle.com/datasets/sadmansakibmahi/plant-disease-expert): 200k labeled images for Plant Disease detection.
 - [Plant Diseases Dataset](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset): 87k rgb images of healthy and diseased crop leaves, categorized into 38 different classes.
 - [PlantVillage dataset](https://www.tensorflow.org/datasets/catalog/plant_village): 54k healthy and unhealthy leaf images divided into 38 categories by species and disease.
+- [Collection of Leaf (Disease) Images](https://www.kaggle.com/datasets/meetnagadia/collection-of-different-category-of-leaf-images): 4.5k labeled images, healthy and diseased, covering 11 species.
 - [Plant leaf disease classification](https://huggingface.co/datasets/ayerr/plant-disease-classification): 550 labeled images of leaves, diseased or not.
+- [Orange leaf disease dataset](https://www.kaggle.com/datasets/shuvokumarbasak4004/orange-leaf-disease-dataset): 41k labeled images, 5 categories (4 diseases and healthy).
+- [Apple Disease Dataset](https://www.kaggle.com/datasets/ludehsar/apple-disease-dataset): 10k labeled images, 4 categories (3 diseases and healthy).
+- [Plant Pathology 2021 - foliar diseases in apple trees](https://www.kaggle.com/competitions/plant-pathology-2021-fgvc8/data) - [resized](https://www.kaggle.com/datasets/sakbvb/ppchangedimagesize): 18.6k images
+- [Coconut Diseases and Pest Infestations](https://www.kaggle.com/datasets/samitha96/coconutdiseases): 5k labeled images, 5 categories
 
 ## 3. Wildfire detection
 - [The FLAME dataset](https://ieee-dataport.org/open-access/flame-dataset-aerial-imagery-pile-burn-detection-using-drones-uavs): 50k aerial images labeled as "fire" and "non-nire", aerial imagery pile burn detection using drones (UAVs).
@@ -41,6 +46,11 @@ Outline:
 
 ## 4. Deforestation detection
 
+
 To classify:
-- https://www.kaggle.com/datasets/meetnagadia/collection-of-different-category-of-leaf-images
 - https://www.kaggle.com/datasets/uciml/forest-cover-type-dataset
+- [Banana Leaf Disease Images](https://data.mendeley.com/datasets/rjykr62kdh/1)
+- [Peach tree disease detection](https://ieee-dataport.org/documents/peach-tree-disease-detection-dataset)
+- [Cherry tree disease detection](https://ieee-dataport.org/documents/cherry-tree-disease-detection-dataset)
+- [Apple leaf disease](https://universe.roboflow.com/anshul-kumar/apple-leaf-xaelj): 9k images
+

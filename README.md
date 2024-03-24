@@ -8,7 +8,7 @@ AI will play a crucial role in safeguarding plant life and forests, notably by e
 
 The purpose of this page is to list useful datasets on plants, trees and forests. Later, we could also store use cases using these data (e.g. a neural network to detect plant diseases or wildfires).
 
-If you'd like to take part in this initiative, by sharing a useful dataset or a use case using the data in this list, please don't hesitate to contact me on Twitter at https://twitter.com/antoinebxx.
+If you'd like to take part in this initiative, by sharing a useful dataset or a use case using the data in this list, please don't hesitate to contact me on Twitter at https://twitter.com/antoinebcx_.
 
 Outline:
 1. Species classification

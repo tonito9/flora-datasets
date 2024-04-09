@@ -4,11 +4,7 @@
 Plants and forests are essential for our planet and for humanity. They produce oxygen, help regulate the climate, provide habitats for wildlife, protect water resources, prevent soil erosion, and provide us resources and medicine.
 However, they are threatened by diseases, deforestation, climate change, wildfires, invasive species, pollution, and overharvesting. For our planet and for the sake of our own survival, we must protect them.
 
-AI will play a crucial role in safeguarding plant life and forests, notably by enabling efficient monitoring, detection of threats like deforestation and wildfires, species identification, diseases identification or the development of new methods for sustainable forest management. But to develop these technologies, we first need data.
-
-The purpose of this page is to list useful datasets on plants, trees and forests. Later, we could also store use cases using these data (e.g. a neural network to detect plant diseases or wildfires).
-
-If you'd like to take part in this initiative, by sharing a useful dataset or a use case using the data in this list, please don't hesitate to contact me on Twitter at https://twitter.com/antoinebcx_.
+AI will play a crucial role in safeguarding plant life and forests, notably by enabling efficient monitoring, detection of threats like deforestation and wildfires, species identification, diseases identification or the development of new methods for sustainable forest management. But to develop these technologies, we first need data!
 
 Outline:
 1. Species classification
@@ -48,3 +44,5 @@ Outline:
 - [ForestNet deforestation driver](https://stanfordmlgroup.github.io/projects/forestnet/): 2,756 LANDSAT-8 satellite images of forest loss events with deforestation driver annotations. The driver annotations were grouped into Plantation, Smallholder Agriculture, Grassland/shrubland, and Other.
 - https://github.com/BioWar/Satellite-Image-Segmentation-using-Deep-Learning-for-Deforestation-Detection
 - https://globil-panda.opendata.arcgis.com/maps/panda::deforestation-terra-i/about
+
+Don't hesitate to contact me on Twitter at https://twitter.com/antoinebcx_.

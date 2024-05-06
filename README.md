@@ -1,5 +1,5 @@
 # Flora datasets
-🌱🌳 Flora datasets is a curated list of datasets on plants, trees and forests to help the flora-interested AI community develop models.
+🌱🌳 Flora datasets is a curated list of datasets on plants, trees and forests to help the flora/forest-interested AI community develop models.
 
 Plants and forests are essential for our planet and for humanity. They produce oxygen, help regulate the climate, provide habitats for wildlife, protect water resources, prevent soil erosion, and provide us resources and medicine.
 However, they are threatened by diseases, deforestation, climate change, wildfires, invasive species, pollution, and overharvesting. For our planet and for the sake of our own survival, we must protect them.

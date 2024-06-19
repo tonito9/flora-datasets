@@ -45,4 +45,4 @@ Outline:
 - https://github.com/BioWar/Satellite-Image-Segmentation-using-Deep-Learning-for-Deforestation-Detection
 - https://globil-panda.opendata.arcgis.com/maps/panda::deforestation-terra-i/about
 
-Don't hesitate to contact me on Twitter at https://twitter.com/antoinebcx_.
+Don't hesitate to contact me on [Twitter](https://twitter.com/antoinebcx_).
